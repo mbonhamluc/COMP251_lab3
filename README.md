@@ -30,40 +30,51 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 1.  Write the SQL command to list all clients and all the columns pertaining to a client.  The intended output is below.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/1.PNG" width="350" alt="output query 1"/>
 <img src="https://github.com/mbonhamluc/COMP251_lab3/blob/main/results/1.png" alt="output query 1"/>
-
-1.  Write the SQL command to change client Chris Isaac to Chris Pearson.  No output for this command
-
-2.  Write the SQL command to display all policies that have a policy type of 'Home'.
+2.  Write the SQL command to change client Chris Isaac to Chris Pearson.  No output for this command
+3.  Write the SQL command to display all policies that have a policy type of 'Home'.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/3.PNG" width="300" alt="output query 3"/>
-1.  Write the SQL command to display all columns for policies that have yearly terms
+<img src="https://github.com/mbonhamluc/COMP251_lab3/blob/main/results/3.png" alt="output query 3"/>
+4.  Write the SQL command to display all columns for policies that have yearly terms
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/4.PNG" width="300" alt="output query 4"/>
-1.  Write the SQL command that displays the client name, address, and age sorted by age in descending order in the figure below
+<img src="https://github.com/mbonhamluc/COMP251_lab3/blob/main/results/4.png" alt="output query 4"/>
+5.  Write the SQL command that displays the client name, address, and age sorted by age in descending order in the figure below
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/5.PNG" width="300" alt="output query 5"/>
-1.  Write the SQL command that calculates the average age of all clients
+<img src="https://github.com/mbonhamluc/COMP251_lab3/blob/main/results/5.png" alt="output query 5"/>
+6.  Write the SQL command that calculates the average age of all clients
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/6.PNG" width="90" alt="output query 6"/>
-1.  Write the SQL command that lists the name and age of clients who are between the ages of 22 and 40
+<img src="https://github.com/mbonhamluc/COMP251_lab3/blob/main/results/6.png" alt="output query 6"/>
+7.  Write the SQL command that lists the name and age of clients who are between the ages of 22 and 40
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/7.PNG" width="180" alt="output query 7"/>
-1.  Write the SQL command that lists all home policies that have a policy limit less than or equal to $250,000.
+<img src="https://github.com/mbonhamluc/COMP251_lab3/blob/main/results/7.png" alt="output query 7"/>
+8.  Write the SQL command that lists all home policies that have a policy limit less than or equal to $250,000.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/8.PNG" width="270" alt="output query 8"/>
-1.  Write the SQL  command that lists the client's name and address for all addresses that contain 'Featherstone' and order by age in ascending order.
+<img src="https://github.com/mbonhamluc/COMP251_lab3/blob/main/results/8.png" alt="output query 8"/>
+9.  Write the SQL  command that lists the client's name and address for all addresses that contain 'Featherstone' and order by age in ascending order.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/9.PNG" width="200" alt="output query 9"/>
-1.   Write the SQL command that lists the name, address, and age of clients who are age 35 and above and whose address contains the number 8
+<img src="https://github.com/mbonhamluc/COMP251_lab3/blob/main/results/9.png" alt="output query 9"/>
+10.   Write the SQL command that lists the name, address, and age of clients who are age 35 and above and whose address contains the number 8
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/10.PNG" width="300" alt="output query 10"/>
-1.   Write the SQL command that returns the total # of policies offered
+<img src="https://github.com/mbonhamluc/COMP251_lab3/blob/main/results/10.png" alt="output query 10"/>
+11.   Write the SQL command that returns the total # of policies offered
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/11.PNG" width="80" alt="output query 11"/>
-1.   Write the SQL command that returns the policy type and the total count of policies by type
+<img src="https://github.com/mbonhamluc/COMP251_lab3/blob/main/results/11.png" alt="output query 11"/>
+12.   Write the SQL command that returns the policy type and the total count of policies by type
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/12.PNG" width="170" alt="output query 12"/>
-1.   Write the SQL command that returns the youngest and oldest client
+<img src="https://github.com/mbonhamluc/COMP251_lab3/blob/main/results/12.png" alt="output query 12"/>
+13.   Write the SQL command that returns the youngest and oldest client
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/13.PNG" width="170" alt="output query 13"/>
-1.   Write the SQL command that lists all clients that have a home insurance policy
+<img src="https://github.com/mbonhamluc/COMP251_lab3/blob/main/results/13.png" alt="output query 13"/>
+14.   Write the SQL command that lists all clients that have a home insurance policy
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/14.PNG" width="450" alt="output query 14"/>
-1.   Write the SQL command that lists all of the instances of a policy where the client ID is equal to #2
+<img src="https://github.com/mbonhamluc/COMP251_lab3/blob/main/results/14.png" alt="output query 14"/>
+15.   Write the SQL command that lists all of the instances of a policy where the client ID is equal to #2
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/15.PNG" width="450" alt="output query 15"/>
+<img src="https://github.com/mbonhamluc/COMP251_lab3/blob/main/results/15.png" alt="output query 15"/>
 
 ### Extra Credit (2 Points)
 List all clients along with their respective policies.<br>
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/ec.PNG" width="550" alt="output query Extra credit"/>
-
+<img src="https://github.com/mbonhamluc/COMP251_lab3/blob/main/results/EC.png" alt="output query extra credit"/>
 
 
 ## Submission Guidelines
